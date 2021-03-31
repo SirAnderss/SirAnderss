@@ -42,7 +42,7 @@ const skils = {
 <table border=0>
   <tr>
     <td>MySQL</td>
-    <td>&#9607; &#9607; &#9607;</td>
+    <td>&#9607; &#9607; &#9607; &#9607;</td>
   </tr>
   <tr>
     <td>MongoDB</td>
@@ -66,7 +66,7 @@ const skils = {
     <td>VueJS</td>
     <td>&#9607; &#9607; &#9607; &#9607;</td>
     <td>React</td>
-    <td>&#9607; &#9607; &#9607;</td>
+    <td>&#9607; &#9607; &#9607; &#9607;</td>
     <td>ReactNative</td>
     <td>&#9607; &#9607; &#9607;</td>
   </tr>
@@ -84,18 +84,3 @@ const skils = {
 <br/>
 
 ### *<strong>I´m try to learn every day</strong>, for example, right now I'm studying English to expand my borders*
-
-<!--
-**SirAnderss/SirAnderss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
