@@ -7,9 +7,9 @@ Fullstack web developer
 I like what I do, since I was little I always liked computing and I started programming from the age of 14, although I had to leave programming for almost five years and since 2016 I resumed programming and decided to specialize in web development.
 
 * 🌍  I'm based in Colombia
-* 🖥️  See my portfolio at [siranderss.com](http://siranderss.com)
+* 🖥️  See my portfolio at [siranderss.com](https://siranderss.com)
 * ✉️  You can contact me at [contact@siranderss.com](mailto:contact@siranderss.com)
-* 🚀  I'm currently working on [Imaginamos](http://imaginamos.com)
+* 🚀  I'm currently working on [Mercado libre](https://mercadolibre.com.co)
 * 🧠  I'm learning English, Rust programming language and Frontend architecture
 * 🤝  I'm open to collaborating on Opensource projects and continuous learning
 * ⚡  I love my daughter and everything I do. I do it for her and my mom.
