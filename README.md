@@ -1,10 +1,18 @@
 Hi 👋 My name is Andersson Ramirez
 ==================================
 
-Fullstack web developer
+Frondend Dev
 -----------------------
 
-I like what I do, since I was little I always liked computing and I started programming from the age of 14, although I had to leave programming for almost five years and since 2016 I resumed programming and decided to specialize in web development.
+I am a passionate frontend developer with over six years of experience in the exciting world of programming. My journey in computer science began more than a decade ago, and since then, I have been dedicated to learning and growing in this ever-evolving field.
+
+My love for technology drives me to constantly seek creative and effective solutions in every project I work on. I enjoy the exhilarating task of translating designs and concepts into interactive and engaging experiences for users. Programming is not just my profession; it's my passion, and that passion is reflected in every line of code I write.
+
+When I'm not immersed in programming and web development, I take advantage of my free time to enjoy other forms of entertainment, such as watching series and movies that explore the boundaries of creativity and innovation. Additionally, I share quality moments with my daughter, who is a constant source of inspiration and joy in my life.
+
+In summary, I am a dedicated and passionate professional in the world of technology and programming, always eager to learn, grow, and explore new frontiers in this exciting field, both in my career and in my personal life.
+
+[comment]: <> (I like what I do, since I was little I always liked computing and I started programming from the age of 14, although I had to leave programming for almost five years and since 2016 I resumed programming and decided to specialize in web development.)
 
 * 🌍  I'm based in Colombia
 * 🖥️  See my portfolio at [siranderss.com](https://siranderss.com)
@@ -52,8 +60,6 @@ I like what I do, since I was little I always liked computing and I started prog
 <b>My GitHub Stats</b>
 
 <a href="http://www.github.com/SirAnderss"><img src="https://github-readme-stats.vercel.app/api?username=SirAnderss&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="SirAnderss's GitHub stats" /></a>
-
-<a href="http://www.github.com/SirAnderss"><img src="https://activity-graph.herokuapp.com/graph?username=SirAnderss&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
 ### Support Me
 
